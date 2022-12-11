@@ -16,6 +16,8 @@ class Ox extends Animal{
     Ox(){
         type = "ox";
         age = 1;
+        name = "anonymous ox";
+
     }
     
     Ox(String input1, int input2, String input3){
