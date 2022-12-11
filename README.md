@@ -1,6 +1,6 @@
 # Εισαγωγή στον Αντικειμενοστραφή Προγραμματισμό
 
-- [ ] Κλάσεις (Constructors, Κληρονομικότητα, super, Access Modifiers)
+- [ ] Κλάσεις (Constructors, Κληρονομικότητα, Super, Access Modifiers)
 - [ ] Static, Final, Abstract, Interface
 
 
