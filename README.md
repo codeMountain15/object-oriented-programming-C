@@ -1,12 +1,15 @@
 # Εισαγωγή στον Αντικειμενοστραφή Προγραμματισμό
 
-- [ ] Κλάσεις
+- [ ] Κλάσεις (Constructors, Κληρονομικότητα, super, Access Modifiers)
+- [ ] Static, Final, Abstract, Interface
+
 
 
 
 ## Πηγές
 * [cgi.di.uoa.gr/~izambo/K10Java.pdf](https://cgi.di.uoa.gr/~izambo/K10Java.pdf)
 * [docs.oracle.com/javase](https://docs.oracle.com/javase/tutorial/java/index.html)
+* [w3schools.com/java](https://www.w3schools.com/java/default.asp)
 
 
 ---
