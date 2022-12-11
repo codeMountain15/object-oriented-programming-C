@@ -5,14 +5,14 @@ package xeimadio;
 
 class Animal{
     void speak() {
-        System.out.println("This is Animal speaking!");
+        System.out.println("This is the Animal speaking!");
     };
 }
 
 class Ox extends Animal{
     // method override
     void speak() {
-        System.out.println("This is Dog speaking!");
+        System.out.println("This is the Ox speaking!");
     };
     
     // method using super()
