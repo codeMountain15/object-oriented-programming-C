@@ -3,7 +3,6 @@
 
 package stani;
 
-// protected class Mpee02{ // ---> error!
 public class Mpee02{
     private int age;
     
