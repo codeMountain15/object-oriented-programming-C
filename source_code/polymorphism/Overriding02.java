@@ -27,7 +27,6 @@ class Diples extends XmasSweets {
   }
 }
 
-
 class Roxakia extends XmasSweets {
   public void say() {
     System.out.println("I love Roxakia!!!");
