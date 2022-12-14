@@ -1,7 +1,7 @@
 // Overloading01.java
 //
 
-package Xmas;
+package overload;
 
 public class Overloading01 {
    
