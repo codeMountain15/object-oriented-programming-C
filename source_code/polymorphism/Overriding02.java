@@ -27,6 +27,7 @@ class Diples extends XmasSweets {
   }
 }
 
+
 class Roxakia extends XmasSweets {
   public void say() {
     System.out.println("I love Roxakia!!!");
@@ -36,8 +37,11 @@ class Roxakia extends XmasSweets {
 
 public class Overloading01 {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) { 
+        
         XmasSweets mam;
+        mam = new XmasSweets();
+        mam.say();
         
         mam = new Kourambiedes();
         mam.say();
