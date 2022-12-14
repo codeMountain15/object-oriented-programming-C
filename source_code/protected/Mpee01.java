@@ -33,7 +33,7 @@ class Mpee01 extends Mpee02 {
         // and a more complicated example:
         // a child object referencing to parent
         Mpee02 obj_c = new Mpee01();
-        obj_c.method01(); // the Mpee2 (parent) method call
+        obj_c.method01(); // !!!
         System.out.println();
         
         /* // -----> error!
